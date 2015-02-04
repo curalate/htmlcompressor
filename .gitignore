@@ -1,0 +1,42 @@
+#
+# OS X / Windows
+#
+
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+*~
+
+#
+# Maven
+#
+
+target
+
+#
+# IntelliJ
+#
+
+*.iml
+*.ipr
+*.iws
+.idea
+
+#
+# Vim
+#
+
+*.sw[o-z]
+
+#
+# Eclipse
+#
+
+.classpath
+.metadata
+.project
+.cache
+.settings
+eclipse-build
+.metadata
